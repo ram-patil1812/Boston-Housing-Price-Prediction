@@ -33,6 +33,8 @@ This boston housing dataset consist following attribute :
         - LSTAT    % lower status of the population
         
         - MEDV     Median value of owner-occupied homes in $1000's
+        
+#### Correlation & feature selection finding :
 
 #### From above we can say that column "RM" is highly correlated with "MEDV" which is greater than 0.5 is 0.7
 #### so we can say here "RM" is dependant variable and "MEDV" is independant variable.
